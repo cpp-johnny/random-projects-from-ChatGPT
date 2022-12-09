@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Greetings</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>  
+  <h3>This will show you either good morning, good afternoon or good evening depending on what time of the day it is!</h3>
+  <p id="greeting"></p>
+  
+  <script>
+  
+    // Get the current time
+    let now = new Date();
+
+    // Get the current hour
+    let hour = now.getHours();
+
+    // Define the greeting text
+    let greeting = "";
+    if (hour >= 0 && hour < 12) greeting = "Good morning";
+    else if (hour >= 12 && hour < 18) greeting = "Good afternoon";
+    else greeting = "Good evening";
+
+    // Get the greeting element and set the text
+    let elem = document.getElementById("greeting");
+    elem.innerText = greeting;
+  
+  </script>
+  
+</body>
+
+</html>
+
