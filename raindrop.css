@@ -1,0 +1,60 @@
+#rain-container {
+  background-color: grey;
+}
+
+#rain-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+}
+
+#rain-container::before {
+  animation: fall 1s linear infinite;
+}
+
+@keyframes fall {
+  from { top: 0; }
+  to { top: 100%; }
+}
+
+#rain-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 25%;
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  animation: fall 1s linear infinite;
+  animation-delay: 0.5s;
+}
+
+#rain-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  animation: fall 1s linear infinite;
+  animation-delay: 1s;
+}
+
+#rain-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 75%;
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  animation: fall 1s linear infinite;
+  animation-delay: 1.5s;
+}
+
+
