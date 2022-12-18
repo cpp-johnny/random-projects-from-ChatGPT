@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  Hello world
+  
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sandwich Simulator</title>
+</head>
+<body>
+  <h1>Sandwich Simulator</h1>
+  <p>Choose your ingredients:</p>
+  <form>
+    <label for="bread">Bread:</label><br>
+    <select id="bread">
+      <option value="wheat">Wheat</option>
+      <option value="white">White</option>
+      <option value="rye">Rye</option>
+    </select><br>
+    <label for="meat">Meat:</label><br>
+    <select id="meat">
+      <option value="chicken">Chicken</option>
+      <option value="beef">Beef</option>
+      <option value="veggie">Veggie</option>
+    </select><br>
+    <label for="cheese">Cheese:</label><br>
+    <select id="cheese">
+      <option value="cheddar">Cheddar</option>
+      <option value="mozzarella">Mozzarella</option>
+      <option value="none">None</option>
+    </select><br>
+    <input type="checkbox" id="lettuce" value="lettuce">
+    <label for="lettuce">Lettuce</label><br>
+    <input type="checkbox" id="tomato" value="tomato">
+    <label for="tomato">Tomato</label><br>
+    <input type="checkbox" id="mayo" value="mayo">
+    <label for="mayo">Mayo</label><br>
+  </form> 
+  <button onclick="makeSandwich()">Make Sandwich</button>
+  <p id="sandwich"></p>
+  <script src="script.js"></script>
+</body>
+</html>
