@@ -1,0 +1,48 @@
+Certainly. Here are 50 programming jokes without numbers or quotation marks:
+
+Why do programmers hate nature? There's too many bugs.
+Why do programmers always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.
+Why was the JavaScript developer sad? Because he didn't know how to null his feelings.
+Why do programmers always have to change their underwear? Because they produce too much dirty code.
+Why do programmers always prefer dark mode? Light attracts bugs.
+Why do programmers prefer dark humor? It's the only type of humor that doesn't throw an exception.
+Why do programmers hate debugging? Because it's like finding a needle in a haystack, except the needle is invisible and the haystack is on fire.
+Why do programmers hate work meetings? There's too much talking and not enough coding.
+Why do programmers hate paperwork? It's full of too many bugs.
+Why do programmers hate deadlines? They're always getting pushed back.
+Why was the C++ developer sad? He didn't know how to throw his feelings.
+Why was the Python developer happy? He was printing his feelings.
+Why do programmers hate vegetables? They're too hard to debug.
+Why do programmers hate elevator music? It's too repetitive.
+Why do programmers hate politics? There are too many logical fallacies.
+Why do programmers hate the beach? There are too many sand bugs.
+Why do programmers hate math class? Because it's full of too many functions and not enough variables.
+Why do programmers hate the outdoors? There are too many trees and not enough power outlets.
+Why do programmers hate the winter? There are too many cold bugs.
+Why do programmers hate the summer? There are too many hot bugs.
+Why do programmers hate spring? There are too many pollen bugs.
+Why do programmers hate fall? There are too many leaf bugs.
+Why do programmers hate traffic? There are too many car bugs.
+Why do programmers hate shopping? There are too many shopping cart bugs.
+Why do programmers hate going to the doctor? There are too many health bugs.
+Why do programmers hate going to the gym? There are too many exercise bugs.
+Why do programmers hate cooking? There are too many recipe bugs.
+Why do programmers hate cleaning? There are too many dust bugs.
+Why do programmers hate gardening? There are too many plant bugs.
+Why do programmers hate DIY projects? There are too many hardware bugs.
+Why do programmers hate pets? They're always introducing new bugs into the code.
+Why do programmers hate games? They're always full of bugs.
+Why do programmers hate sports? There are too many ball bugs.
+Why do programmers hate movies? They're always full of plot holes.
+Why do programmers hate music? It's always full of syntax errors.
+Why do programmers hate social media? There are too many status updates.
+Why do programmers hate email? There's always too much spam.
+Why do programmers hate the news? There's too much fake information.
+Why do programmers hate restaurants? There are too many menu bugs.
+Why do programmers hate fast food? There are too many drive-thru bugs.
+Why do programmers hate amusement parks? There are too many ride bugs.
+Why do programmers hate zoos? There are too many animal bugs.
+Why do programmers hate museums? There are too many history bugs.
+Why do programmers hate concerts? There are too many music bugs.
+Why do programmers hate festivals? There are too many event bugs.
+Why do programmers hate vacations? There are too many travel bugs.
