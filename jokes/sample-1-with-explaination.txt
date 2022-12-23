@@ -1,3 +1,6 @@
+// this is inconsistent lol after some number it genertaed new jokes 
+
+
 "Why do programmers hate nature? There's too many bugs."
 This joke plays on the common saying "there are too many bugs" to make a humorous reference to the fact that software developers often have to deal with bugs in their code. The punchline of the joke is that programmers hate nature because there are too many bugs, implying that nature is full of problems and annoyances.
 
