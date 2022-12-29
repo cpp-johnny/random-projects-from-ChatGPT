@@ -4,5 +4,5 @@
 - I will also take this opportunity to [mess around with other programming language](https://github.com/cpp-johnny/random-projects-from-ChatGPT/search?l=Brainfuck)
 
 
-## view counter new
-![:name](https://count.getloli.com/get/@:name)
+
+![](https://img.shields.io/github/last-commit/cpp-johnny/random-projects-from-ChatGPT?style=flat-square)
