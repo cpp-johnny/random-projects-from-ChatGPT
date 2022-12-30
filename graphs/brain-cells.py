@@ -9,7 +9,7 @@ plt.plot(time, brain_cells)
 
 # Add labels and title
 plt.xlabel('Time (hours)')
-plt.ylabel('Brain cells')
+plt.ylabel('Brain cells (in mil)')
 plt.title('Brain cells over time')
 
 # Show the plot
