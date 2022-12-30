@@ -1,0 +1,9 @@
+Here are some of the key concepts that you will learn in the tutorial:
+
+Modes: Vim has two main modes: "normal" mode and "insert" mode. In normal mode, you can use various commands to move around the document and perform actions, such as deleting text or copying and pasting. In insert mode, you can type text into the document.
+
+Navigation: Vim has a number of commands for moving around the document, such as h, j, k, and l, which move the cursor left, down, up, and right, respectively. You can also use the w, e, b, and f commands to move forward and backward by word, and the { and } commands to move to the previous or next paragraph.
+
+Editing: Vim has a number of commands for editing text, such as x to delete a character, dd to delete a line, and y to yank (copy) text. You can also use the u command to undo your last action, and the . command to repeat your last action.
+
+Saving and quitting: To save the changes you've made to a document, use the :w command. To save and quit, use the :wq command. To quit without saving, use the :q! command.
