@@ -19,3 +19,5 @@
 
 
 ![](https://img.shields.io/github/last-commit/cpp-johnny/random-projects-from-ChatGPT?style=flat-square)
+![](https://img.shields.io/github/languages/count/cpp-johnny/random-projects-from-ChatGPT?color=bright%20green&style=flat-square)
+![](https://img.shields.io/github/languages/top/cpp-johnny/random-projects-from-ChatGPT?color=bright%20green&style=flat-square)
