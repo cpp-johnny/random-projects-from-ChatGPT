@@ -32,3 +32,9 @@ def extract_info(filename):
     
     # Return the extracted information as a tuple
     return (name, class_, email)
+
+# To use this function, you would pass it the name of the file you want to read. For example:
+info = extract_info('student_info.txt')
+print(info)
+
+
